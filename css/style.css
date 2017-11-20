@@ -144,18 +144,21 @@ border-top: solid 5px #4ba9a5;
 
 
 .namefield {
+  top 10px;
   width: 95%;
   margin: 0 auto;
   padding: 5px;
 }
 
 .emailfield {
+  top: 10px;
   width: 95%;
   margin: 0 auto;
   padding: 5px;
 }
 
 .messagefield {
+  top:10px;
   width: 95%;
   margin: 0 auto;
   padding: 5px;
